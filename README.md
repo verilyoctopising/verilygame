@@ -1,2 +1,4 @@
-# verilygame
-This is the source for the great computer game promoting the podcast Verily, Octopi Sing
+# Verily Octopi Sing
+## The game
+
+Please contribute to an amazing player experience.
